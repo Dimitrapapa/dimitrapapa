@@ -18,3 +18,6 @@
 
   <p>🌱 Always learning and growing as a developer, excited for new challenges and collaborations.</p>
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrapapa)](https://github.com/anuraghazra/github-readme-stats)
