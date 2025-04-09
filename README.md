@@ -20,4 +20,4 @@
 </div>
 
 
-![Dimitrapapa's Stats](https://github-readme-stats.vercel.app/api?username=Dimitrapapa&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![Dimitrapapa's Stats](https://github-readme-stats.vercel.app/api?username=Dimitrapapa&theme=cobalt&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
