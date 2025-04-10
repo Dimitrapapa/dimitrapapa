@@ -21,4 +21,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dimitrapapa&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="dimitrapapa's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=dimitrapapa&theme=radical&hide_border=true" alt="dimitrapapa's GitHub Stats" />
